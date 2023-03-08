@@ -1,0 +1,5 @@
+name: ArranBotConnector
+version: 1.0
+author: Arran
+main: xyz.arranbot.arranbotplugin.Main
+api-version: 1.19
